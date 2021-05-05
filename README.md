@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java, Vue Application, CP,...
 - 🌱 I’m currently learning PostgreSQL and  Django..
 - 💞️ I’m looking to collaborate on JSIndex  project..
-- 📫 How to reach me ...
+- 📫 Reach me out at radonintro1234@gmail.com
 
 <!---
 radonintro1234/radonintro1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
