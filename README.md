@@ -5,7 +5,7 @@
 
 <!-- </div> -->
 
-👋 Hi, I’m <b> @rishimule </b>
+<font size="6">👋 Hi, I’m <b> @rishimule </b></font>
   
 👀 I’m interested in Python, Java, Vue Application, CP,...
 
