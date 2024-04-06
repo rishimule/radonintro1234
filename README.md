@@ -9,11 +9,11 @@
   
 👀 I’m interested in Python, Java, Vue Application, CP,...
 
-  🌱 I’m currently learning PostgreSQL and  Django..
+  🌱 I’m currently learning Machine Learning and  LLM's..
 
-  💞️ I’m looking to collaborate on JSIndex  project..
+  💞️ I’m looking to collaborate on Django  project..
 
-  📫 Reach me out at radonintro1234@gmail.com
+  📫 Reach me out at mule.ri@northeastern.edu
 
 <!---
 rishi/rishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
